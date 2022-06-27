@@ -1,0 +1,4 @@
+drone-runner-buildah
+drone-runner-buildah.exe
+release/*
+.env

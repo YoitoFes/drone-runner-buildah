@@ -1,0 +1,10 @@
+---
+kind: pipeline
+type: buildah
+
+steps:
+- commands:
+  - go build
+  - go test
+
+...

@@ -1,0 +1,9 @@
+---
+kind: pipeline
+type: buildah
+name: test
+
+steps:
+- ~
+
+...

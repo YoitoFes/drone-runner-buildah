@@ -1,0 +1,8 @@
+---
+kind: pipeline
+type: buildah
+
+steps:
+ foo: bar
+
+...
